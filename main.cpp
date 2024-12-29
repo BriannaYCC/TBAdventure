@@ -6,6 +6,6 @@
  *
  */
 int main() {
-    std::cout << "Hello World! Testing my new project repository" << std::endl;
+    std::cout << "Hello World! Testing my project repository" << std::endl;
     return 0;
 }
