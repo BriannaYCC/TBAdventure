@@ -1,0 +1,3 @@
+D:/CLionProjects/TBAdventureGame/cmake-build-debug/CMakeFiles/TBAdventureGame.dir
+D:/CLionProjects/TBAdventureGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/TBAdventureGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
