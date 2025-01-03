@@ -3,4 +3,6 @@ project(TBAdventureGame)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(TBAdventureGame main.cpp)
+add_executable(TBAdventureGame main.cpp
+        encounter.cpp
+        encounter.h)
